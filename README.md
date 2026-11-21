@@ -425,6 +425,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 30% off | $147.00 / year | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | Up to 60% off | From $19.00 / month · billed yearly | — |
 | [MailCheap](https://mailcheap.ai/pricing) | See offer | — | — |
+| [Mailtea](https://mailtea.app/pricing?utm_source=labex&utm_medium=deal_list&utm_campaign=black_friday_2026#black-friday) | 3 months free · Pro 25K | $0.00 for 3 months, then $16.00 / month · Pro 25K | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% off · annual | $144.00 / year · Standard, first year | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% off | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | See offer | — | — |
